@@ -4,7 +4,6 @@
 
 %define		pdir	RRD
 %define		pnam	Simple
-%include	/usr/lib/rpm/macros.perl
 Summary:	RRD::Simple - Simple interface to create and store data in RRD files
 Name:		perl-RRD-Simple
 Version:	1.44
